@@ -1,0 +1,16 @@
+Modules introduction
+
+
+1.Insert Contact Module: This module allows you to add a new contact with a name and phone number.
+
+2.Search Contact Module: This module lets you find a contact by their name in the phonebook.
+
+3.Display All Contacts Module: This module shows all the contacts stored in the phonebook.
+
+4.Delete Contact Module: This module lets you remove a contact from the phonebook using their name.
+
+5.Update Contact Module: This module allows you to change the phone number of an existing contact.
+
+6.Sort Contacts Module (Optional): This module organizes the contacts in alphabetical order to make searching easier.
+
+7.Efficiency Analysis Module: This module measures how quickly the search function works for different cases.
